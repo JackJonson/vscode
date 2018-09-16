@@ -212,7 +212,9 @@
 			"args": [
 				"--delay",
 				"--timeout",
-				"2000"
+				"2000",
+				"-g",
+				"ExtensionsListView"
 			],
 			"cwd": "${workspaceFolder}",
 			"env": {
